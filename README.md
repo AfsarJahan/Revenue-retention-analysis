@@ -13,8 +13,6 @@ A product-focused data analytics project designed to diagnose revenue drivers, u
 
 This project analyzes an e-commerce dataset to evaluate whether revenue growth is driven by sustainable customer retention or continuous acquisition.
 
-### 💣 Key Conclusion:
-> The business is **heavily acquisition-driven**, with extremely low customer retention (<1%), making long-term growth unsustainable.
 
 ---
 
@@ -167,7 +165,7 @@ This project includes an interactive dashboard covering:
 - Cohort retention analysis  
 
 📌 Designed for **decision-making, not just visualization**
-
+![Dashboard](Dashboard.jpeg)
 ---
 
 ## 🧠 Skills Demonstrated
@@ -199,6 +197,9 @@ Even a small improvement in retention can:
 - Improve long-term sustainability  
 
 ---
+### 💣  Conclusion
+> The business is **heavily acquisition-driven**, with extremely low customer retention (<1%), making long-term growth unsustainable.
+---
 
 ## 🔮 Future Work
 
@@ -211,7 +212,7 @@ Even a small improvement in retention can:
 
 ## 👤 Author
 
-**Afsar Jahan Shaik**  
+** Shaik Afsar Jahan **  
 M.Sc. Statistics & Data Analytics  
 
 ---
